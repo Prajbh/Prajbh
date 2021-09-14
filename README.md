@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prajna
+- 👋 Hi, I’m Prajna (Pronounced as "Pra-g-nya")!
 - 👀 I’m interested in fixing problems both code and the world.
 - 🌱 I’m currently in the journey to earning my doctorate in Computer Science.
 - 💞️ I’m looking to collaborate on protocol analysis and using machine learning for malware analysis/cybersecurity.
